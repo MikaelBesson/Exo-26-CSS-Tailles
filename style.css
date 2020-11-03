@@ -1,0 +1,37 @@
+body {
+    color: coral;
+}
+
+.cadre {
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+    text-indent: 15px;
+    margin: 15px;
+    margin-inside: 20px;
+}
+
+a {
+    color: darkmagenta;
+    text-decoration-line: none;
+    cursor: grab;
+
+
+}
+
+#shadow {
+    box-shadow: darkgrey 10px 10px 10px;
+}
+
+
+ul {
+    list-style-type: -moz-japanese-informal;
+}
+
+img {
+    margin-left: 577px;
+    margin-bottom: 575px;
+    margin-top: -845px;
+}
+
+}
